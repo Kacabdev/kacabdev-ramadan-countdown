@@ -311,3 +311,13 @@ input:checked+.slider:before {
         width: 30%;
     }
 }
+
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 12px;
+}
